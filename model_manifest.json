@@ -1,0 +1,37 @@
+{
+  "task": "task2",
+  "models": [
+    {
+      "name": "model_0",
+      "file": "weights/model_0.safetensors",
+      "role": "classification",
+      "bytes": 1231473340,
+      "sha256": "63698b697ec192f36d4db1f1a6d5b8a51c709b3392e929942cec8af86b965ae8",
+      "removed_training_tensors": 0
+    },
+    {
+      "name": "model_1",
+      "file": "weights/model_1.safetensors",
+      "role": "classification",
+      "bytes": 1231473340,
+      "sha256": "3e73450395023ef387dfbec933d517e0eca891efcbb7c3b730fdeed3c9c278b0",
+      "removed_training_tensors": 0
+    },
+    {
+      "name": "model_2",
+      "file": "weights/model_2.safetensors",
+      "role": "classification",
+      "bytes": 1231473340,
+      "sha256": "5848953c80779082f624874dd10189a164a6f5d7fae91d5686e761dd5cdadb3a",
+      "removed_training_tensors": 0
+    },
+    {
+      "name": "model_3",
+      "file": "weights/model_3.safetensors",
+      "role": "classification",
+      "bytes": 1231473340,
+      "sha256": "e509ed08a5e1c9fd21ac50cf255e1edf6f8b68390550135aa39a40b4d8f09022",
+      "removed_training_tensors": 0
+    }
+  ]
+}
